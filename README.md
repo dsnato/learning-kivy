@@ -1,11 +1,10 @@
 # 📂 Meu Aprendizado com Kivy e Python
 
-Este repositório contém todos os códigos, programas e projetos desenvolvidos durante meus estudos sobre **Kivy e Python**. O objetivo é salvar e organizar o conhecimento adquirido, colocando tudo em prática através de exemplos funcionais.
+Este repositório contém todos os códigos desenvolvidos durante meus estudos sobre **Kivy e Python**. O objetivo é salvar e organizar o conhecimento adquirido, colocando tudo em prática através de exemplos funcionais.
 
 ## 🚀 Tecnologias Utilizadas
 - **Python** - Linguagem principal dos projetos
 - **Kivy** - Framework para desenvolvimento de aplicações com interface gráfica
-- **Pandas** - Biblioteca para manipulação e análise de dados
 
 ## 🛠️ Conteúdos Estudados
 
@@ -17,16 +16,6 @@ Este repositório contém todos os códigos, programas e projetos desenvolvidos 
 - **Size Hint** para dimensionamento responsivo
 - **BoxLayout** para organização de elementos
 - **ScrollView** para conteúdos roláveis
-
-### ✅ Manipulação de Dados
-- **Pandas** para análise e manipulação de dados
-- **DataFrames** e suas funcionalidades
-- **Leitura de arquivos Excel** com `read_excel()`
-
-### ✅ Projetos Práticos
-- **Calculadora** com interface Kivy
-- **To-Do List** para gerenciamento de tarefas
-- **Player de Músicas** interativo
 
 ## 🔧 Como Executar os Códigos
 1. Clone este repositório:
